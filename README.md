@@ -7,7 +7,7 @@
 - <b>QGIS Projects</b>
   - Coming soon</i>
 - <b>Data Analytics (Python) Projects</b>
-  - Coming soon
+  - Linear Regression Model (https://github.com/arnoldworks25/Linear-Regression-model)
 - <b>Geopandas Projects</b>
   - Coming soon
 - <b>Google Earth Engine Projects</b>
