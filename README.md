@@ -8,6 +8,7 @@
   - Coming soon</i>
 - <b>Data Analytics (Python) Projects</b>
   - Linear Regression Model (https://github.com/arnoldworks25/Linear-Regression-model)
+  - Neural Network model (https://github.com/arnoldworks25/nueral_network)
 - <b>Geopandas Projects</b>
   - Coming soon
 - <b>Google Earth Engine Projects</b>
