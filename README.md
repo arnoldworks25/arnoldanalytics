@@ -9,6 +9,7 @@
 - <b>Data Analytics (Python) Projects</b>
   - Linear Regression Model (https://github.com/arnoldworks25/Linear-Regression-model)
   - Neural Network model (https://github.com/arnoldworks25/nueral_network)
+  - Nordpool_spot_prices_analysis (https://colab.research.google.com/drive/1CPuWzR_eQSlHy2vqBzutT6hpOEF-uSHU#scrollTo=UbKfwdnl5n3n)
 - <b>Geopandas Projects</b>
   - Coming soon
 - <b>Google Earth Engine Projects</b>
